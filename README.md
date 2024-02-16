@@ -1,4 +1,4 @@
-# Ecosystem Simulation Game: Cataclysm
+# Adventure Game: Cataclysm
 ## Overview
 This university project is an advanced Java-based simulation game that models an intricate ecosystem involving various characters, 
 animals (both domestic and wild), and environmental dynamics. Named "Cataclysm," the game explores the survival tactics of different entities within
